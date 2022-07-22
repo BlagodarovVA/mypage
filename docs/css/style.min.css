@@ -10,19 +10,19 @@
 .header__search form:after{content:'';display:block;position:absolute;top:2px;right:10px;background:url("../icons/search.svg") center center/cover no-repeat;width:24px;height:24px}
 .header__logo{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:50%;width:calc(100%)}
 .promo{height:780px;display:-webkit-box;display:-ms-flexbox;display:flex}
-.promo__menu{width:280px;height:120%;background:#212121;padding:60px 0 0 10px}
+.promo__menu{width:23%;height:120%;background:#212121;padding:60px 0 0 10px}
 .promo__menu-item{display:block;font-size:28px;line-height:33px;color:#D6D9DC;text-decoration:none;font-weight:300;padding-left:1px;margin-top:10px}
 .promo__menu-item:hover{color:#FFD500}
 .promo__menu-item_active{border-left:2px solid  #FFD500;color:#FFD500}
 .promo__content{width:calc(100% - 600px)}
-.promo__bg{height:350px;background:url("../img/bg2.jpg") center center/cover no-repeat;background-position:top;padding:107px 0 0 61px}
+.promo__bg{height:40%;background:url("../img/bg2.jpg") center center/cover no-repeat;background-position:top;padding:107px 0 0 61px}
 .promo__genre{font-weight:bold;font-size:28px;line-height:32px;color:#ffffff;}
 .promo__title{font-weight:bold;font-size:48px;line-height:56px;color:#ffffff;}
-.promo__descr{width:900px;font-weight:bold;font-size:28px;line-height:32px;color:#ffffff;}
+.promo__descr{width:90%;font-weight:bold;font-size:28px;line-height:32px;color:#ffffff;}
 .promo__ratings{margin-top:13px}
 .promo__ratings span{font-weight:bold;font-size:18px;line-height:21px;color:#FFD500;margin-right:25px}
 .promo__interactive{display:-webkit-box;display:-ms-flexbox;display:flex}
-.promo__interactive>div{width:50%;padding:30px 0 0 60px}
+.promo__interactive>div{width:60%;padding:30px 0 0 60px}
 .promo__interactive-title{display:inline-block;font-weight:bold;font-size:24px;line-height:24px;color:#000000}
 .promo__interactive-title:after{content:'';display:block;width:33%;height:2px;background-color:#000}
 .promo__interactive-list{list-style-type:none;margin-top:25px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}
@@ -40,7 +40,7 @@
 .promo__interactive .add input[type="text"]::placeholder{font-weight:300;font-size:16px;color:rgba(0,0,0,0.53)}
 .promo__interactive .add button{display:block;margin-top:15px;width:170px;height:45px;background:#FFD500;font-weight:bold;font-size:14px;line-height:14px;color:#FFFFFF;border:none;outline:none;cursor:pointer}
 .promo__interactive .add button:active{-webkit-transform:scale(0.95);transform:scale(0.95)}
-.promo__adv{background:#212121;width:300px;height:120%}
+.promo__adv{background:#212121;width:23%;height:120%}
 .promo__adv-title{font-weight:bold;font-size:18px;line-height:21px;color:#FFD500;margin:20px 0;text-align:center}
 .promo__adv img{width:100%;margin-bottom:10px}
 /*# sourceMappingURL=style.min.css.map */
