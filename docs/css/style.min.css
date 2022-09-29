@@ -24,7 +24,7 @@
 .promo__interactive{display:-webkit-box;display:-ms-flexbox;display:flex}
 .promo__interactive>div{width:60%;padding:30px 0 0 60px}
 .promo__interactive-title{display:inline-block;font-weight:bold;font-size:24px;line-height:24px;color:#000000}
-.promo__interactive-title:after{content:'';display:block;width:33%;height:2px;background-color:#000}
+.promo__interactive-title:after{content:'';display:block;width:100%;height:2px;background-color:#000}
 .promo__interactive-list{list-style-type:none;margin-top:25px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}
 .promo__interactive-item{display:inline-block;position:relative;font-weight:300;font-size:18px;line-height:18px;color:#000000;margin-bottom:15px;padding-right:40px}
 .promo__interactive-item span{display:block;position:absolute;left:-30px;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%);width:20px;height:20px;background:url("../icons/Star.svg") center center/cover no-repeat}
