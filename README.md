@@ -1,4 +1,7 @@
 # mypage
-Страничка коротко обо мне. html/css, пока не на React
+Страничка коротко обо мне. 
 
 https://blagodarovva.github.io/mypage
+
+
+html/css, пока не на React
